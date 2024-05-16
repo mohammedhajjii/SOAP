@@ -151,4 +151,4 @@ public class JWSClient {
 ```
 
 On obtient le résultat suivant :
-![result](./images/results.png)
+* ![result](./images/results.png)
